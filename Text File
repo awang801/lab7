@@ -1,0 +1,9 @@
+ Bug guesses:
+ 
+    isEmpty never returns true
+    
+    The size function returns 1 when it should be 0
+    
+    addBack adds the first element to the back rather than add a new element to the back
+    
+    removeFront does the same thing as removeBack
